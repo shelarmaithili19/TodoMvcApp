@@ -32,3 +32,11 @@ A simple and clean **ASP.NET Core MVC To-Do List** application built with .NET 6
 ```bash
 git clone https://github.com/YOUR_USERNAME/TodoMvcApp.git
 cd TodoMvcApp
+---
+
+## 👀 Feedback & Acknowledgement
+
+✅ If you have reviewed this repository, please consider **starring** ⭐ it or leaving a comment.  
+This helps me confirm that the code has been successfully received and reviewed.
+
+Thank you!
